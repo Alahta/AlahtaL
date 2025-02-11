@@ -16,5 +16,5 @@ I believe in the power of foundational web technologies and thoughtful engineeri
 - Building each project with careful consideration and craftsmanship 
 
 
-### Let's Create Beautiful Somethings 💝
+### Let's Create Beautiful Somethings 💚
 visiox.com.au
